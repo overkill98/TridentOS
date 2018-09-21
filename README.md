@@ -1,2 +1,2 @@
 # TridentOS
-testing for a brand new rom, TridentOS.
+testing for a brand new Android based system operation, TridentOS.
